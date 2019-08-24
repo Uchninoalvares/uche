@@ -3,7 +3,7 @@
 <head>
 	<title>My CV</title>
 </head>
-<body bgcolor="gray">
+<body>
 	<center><h2><b>UCHE JACOB OGBONNA </b></h2> </center>
 
 	<aside><img height="100" width="100" align="right" src="https://res.cloudinary.com/uchninoalvares/image/upload/v1566598596/FB_IMG_1562057253760_wbtca4.jpg"></aside>
@@ -26,7 +26,7 @@
 <h5><b>EDUCATION AND QUALIFICATION</b></h5>
 <ul>
 	<li><b>PRIMARY EDUCATION<br><i>TORENY FOUNDATION</i>:</b> 1994-2002 (FSLC)</li>
-	<li><b>SECONDARY EDUCATION<br><i>Gbaja Boys High School</i>:</b> 2002-2008(SSCE)</li>
+	<li><b>SECONDARY EDUCATION<br><i>GBAJA BOYS HIGH SCHOOL</i>:</b> 2002-2008(SSCE)</li>
 	<li><b>HIGHER INSTITUTION<br><i>EBONYI STATE UNIVERSITY</i>:</b> 2012-2017</li>
 	<li><b>OTHER EDUCATION</b></li>
 	
